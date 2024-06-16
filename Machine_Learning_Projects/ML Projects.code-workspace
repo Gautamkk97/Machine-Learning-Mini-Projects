@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "NLP\\Translation_using_Seq2Seq"
+		},
+		{
+			"path": "Thyroid_Detection"
+		},
+		{
+			"path": "NLP\\Text_classification_Glove_LSTM"
+		},
+		{
+			"path": "NLP\\Sentiment_Classification_with_BERT"
+		}
+	],
+	"settings": {}
+}
